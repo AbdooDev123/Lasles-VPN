@@ -22,7 +22,7 @@ A landing page project for Lasles-VPN, aimed at showcasing the features and func
 
 https://github.com/AbdooDev123/Lasles-VPN
 
-## Live Demo
+## 👉 [View Website]
 
 https://abdoodev123.github.io/Lasles-VPN/
 
