@@ -1,32 +1,20 @@
-# Lasles-VPN
+# Lasles VPN 🌐
 
-A landing page project for Lasles-VPN, aimed at showcasing the features and functionality of a virtual private network service.
+A modern landing page for a VPN service, designed from a Figma template and built using **HTML**, **CSS**, and **Sass**.  
+Fully responsive and styled with **Flexbox** and **media queries**.
 
-## Features
+## 🚀 Live Demo
+👉 [View Website](https://abdoodev123.github.io/Lasles-VPN/)
 
-- Responsive design for optimal viewing on various devices.
-- Implementation of HTML, CSS, and Sass for styling.
-- Utilization of Flexbox for a flexible and efficient layout.
-- Integration of animations to enhance user experience.
+## 💻 Source Code
+👉 [GitHub Repository](https://lnkd.in/dcieV936)
 
-## Tools and Technologies Used
+## 🎨 Design Reference
+👉 [Figma Design](https://lnkd.in/dSNFGU9w)
 
-- HTML
-- CSS
-- Sass
-- Flexbox
-- Responsive Design
-- Animation
-
-## Source Code
-
-https://github.com/AbdooDev123/Lasles-VPN
-
-## 👉 [View Website]
-
-https://abdoodev123.github.io/Lasles-VPN/
-
-## Author
-
-[Abdulrhman Mahmoud](https://github.com/AbdooDev123)
+## 🧰 Features
+- Clean and professional landing page design  
+- Responsive layout  
+- Built with Sass and organized file structure  
+- Based on a real Figma UI template
 
